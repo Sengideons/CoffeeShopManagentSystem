@@ -1,4 +1,4 @@
-#<h1 align='center'> 💻 Python Tkinter Coffee Shop Management System </h1>
+<h1 align='center'> 💻 Coffee Shop Management System </h1>
  <br/>
 A program based of Python Tkinter creating a Coffee Shop Management System.
 
@@ -37,6 +37,6 @@ https://youtu.be/jFTJbHK0ndw ⬅️
 
 
 # ❤️ Subscribe to my Youtube Channel
-https://www.youtube.com/c/SenGideons/videos ⬅️
+👉 https://www.youtube.com/c/SenGideons/videos ⬅️
 
 ____

@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://avatars.githubusercontent.com/u/100056552?v=4' /> </h1>
+<h1 align='center'> <img src='https://www.youtube.com/c/SenGideons/videos' /> </h1>
 <p align='center'> Python Tkinter Coffee Shop Management System </p>
  <br/>
 A program based of Python Tkinter creating a Coffee Shop Management System.

@@ -1,5 +1,5 @@
-<h1 align='center'> <img src='https://www.youtube.com/c/SenGideons/videos' /> </h1>
-<p align='center'> Python Tkinter Coffee Shop Management System </p>
+<h1 align='center'> #Hello !!! </h1>
+<p align='center'> #Python Tkinter Coffee Shop Management System </p>
  <br/>
 A program based of Python Tkinter creating a Coffee Shop Management System.
 
@@ -35,5 +35,9 @@ https://youtu.be/8g3OJD3FfEQ ⬅️
 
 Create Loading Page with Progress Bar GUI in Python Tkinter
 https://youtu.be/jFTJbHK0ndw ⬅️
+
+
+# ❤️ Subscribe to my Youtube Channel
+https://www.youtube.com/c/SenGideons/videos ⬅️
 
 ____
